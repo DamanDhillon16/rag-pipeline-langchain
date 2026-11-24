@@ -72,3 +72,4 @@ If you rerun the notebook, delete the `data/vector_store` folder first so chunks
 
 **Daman Dhillon **
 [LinkedIn](https://www.linkedin.com/in/daman-jeet-kaur-dhillon-324191312/) | [GitHub]
+Copyright (c) 2026 Daman Dhillon. All rights reserved.
