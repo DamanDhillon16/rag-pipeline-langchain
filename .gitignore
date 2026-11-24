@@ -1,0 +1,28 @@
+# Secrets and key files (never upload)
+.env
+.env.*
+*.pem
+*.key
+API_keys.ipynb
+*keys*.ipynb
+
+# Data and vector store
+data/
+*.pdf
+*.zip
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
